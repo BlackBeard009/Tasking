@@ -1,0 +1,6 @@
+In line no 1, ID b is not declared.
+In line no 1, Inserting b with type CHAR_TYPE in symbol table.
+In line no 2, ID a is not declared.
+In line no 2, Inserting a with type INT_TYPE in symbol table.
+In line no 2, Data type INT_TYPE is not matched with Data type CHAR_TYPE.
+Parsing finished!
